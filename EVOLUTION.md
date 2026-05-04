@@ -12,3 +12,4 @@
 - [ ] Implementar decorador de cache customizado para estudo de TTL (Time To Live).
 - [ ] Adicionar suporte a processamento paralelo para cálculos massivos.
 - [ ] Postar Alterações
+- [ ] Documentar o código
