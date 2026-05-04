@@ -13,3 +13,5 @@
 - [ ] Adicionar suporte a processamento paralelo para cálculos massivos.
 - [ ] Postar Alterações
 - [ ] Documentar o código
+
+Assinatura
