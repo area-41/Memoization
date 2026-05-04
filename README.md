@@ -52,3 +52,5 @@ Comparamos três abordagens:
 ## Resultados Esperados
 - **Redução de tempo:** De segundos para microssegundos em entradas $n > 30$[cite: 3].
 - **Complexidade Espacial:** Troca de memória por velocidade (Trade-off).
+
+@area-41
